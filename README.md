@@ -12,7 +12,7 @@ To explore the Hands-on UI/UX Experiments
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
 ## Output:
-[Uploading 1uv (3).pdf…]()
+[1uv (3).pdf](https://github.com/user-attachments/files/23568444/1uv.3.pdf)
 
 
 ## Result:
