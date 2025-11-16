@@ -12,8 +12,8 @@ To explore the Hands-on UI/UX Experiments
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
 ## Output:
+[Uploading 1uv (3).pdf…]()
 
-[UIUX (212224240045) (2).pdf](https://github.com/user-attachments/files/23519781/UIUX.212224240045.2.pdf)
 
 ## Result:
 the aim is completed and verified
